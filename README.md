@@ -1,6 +1,2 @@
-- 👋 Hi, I’m 张恒(You can call me Nathan) 
+- 👋 Hi, I’m Nathan
 -  I’m from china 
-- 👀 I’m interested in making friends
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to find a girlfrind and make money.
-- 📫 How to reach me ...(Nathanzhangs@outlook.com)
